@@ -4,7 +4,7 @@ Computer Science undergrad at @ufscar and Data Science Intern at [BigData](https
 
 ---------
 
-#### Technologies
+### Technologies
 
 - **Programming Languages:** [Python](https://www.python.org/), [Julia](https://julialang.org/), C++
 - **Machine Learning:** [Scikit-Learn](https://scikit-learn.org/stable/index.html), [Keras](https://keras.io/), [Optuna](https://optuna.org/), [Flux.jl](https://fluxml.ai/Flux.jl/stable/)
@@ -14,7 +14,7 @@ Computer Science undergrad at @ufscar and Data Science Intern at [BigData](https
 
 ---------
 
-#### Projects
+### Projects
 
 - [Multi-ensemble Machine Learning based approach for Short-term Solar Radiation Forecasting](https://github.com/lfenzo/ml-solar-sao-paulo)
 
