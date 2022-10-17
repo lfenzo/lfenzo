@@ -1,6 +1,6 @@
 ## About Me
 
-Computer Science undergrad at @ufscar and Data Science Intern at [BigData](https://www.linkedin.com/company/big-data-brasil-/), currently working on forecasting pipelines and data analysis. I like to design and automate things. 
+Computer Science undergrad at @ufscar and Data Scientist at [BigData](https://www.linkedin.com/company/big-data-brasil-/), currently working on forecasting pipelines and data analysis. I like to design and automate things. 
 
 ---------
 
