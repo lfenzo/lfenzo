@@ -1,6 +1,6 @@
 ## About Me
 
-Computer Science undergrad at @ufscar and Data Scientist at [BigData](https://www.linkedin.com/company/big-data-brasil-/), currently working on forecasting pipelines and data analysis. I like to design and automate things. 
+Computer Science BSc. (graduated from the [Federal University of São Carlos](https://www.ufscar.br/) in 2022) and Data Scientist at [BigData](https://www.linkedin.com/company/big-data-brasil-/), currently working on forecasting pipelines, data analysis and computer vision. I like to design and automate things. 
 
 ---------
 
@@ -17,7 +17,7 @@ Computer Science undergrad at @ufscar and Data Scientist at [BigData](https://ww
 ### Projects
 
 - [Multi-ensemble Machine Learning based approach for Short-term Solar Radiation Forecasting](https://github.com/lfenzo/ml-solar-sao-paulo)
-
+- [Deep Dense Neural Networks for Solar Radiation Forecasting](https://github.com/lfenzo/dl-solar-sao-paulo)
 ---------
 
 <img src="./img/sky_and_water.jpg" alt="drawing" width="240"/>
