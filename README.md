@@ -2,7 +2,7 @@
 
 Computer Science BSc. (graduated from the [Federal University of São Carlos](https://www.ufscar.br/) in 2022) and Data Scientist at [BigData](https://www.linkedin.com/company/big-data-brasil-/), currently working on forecasting pipelines and data analysis.
 
-Although most of my effort is centered around the Machine Learning area, I also enjoy studying and working on topics like IOT, Precess Automatization, 3D Printing and contributing to open source projects.
+Although most of my effort is centered around the Machine Learning area, I also enjoy studying and working on topics such as IOT, Process Automatization, 3D Printing and contributing to open source projects.
 
 *I like to design and automate things.*
 
@@ -24,6 +24,7 @@ Although most of my effort is centered around the Machine Learning area, I also 
 - [Deep Dense Neural Networks for Solar Radiation Forecasting](https://github.com/lfenzo/dl-solar-sao-paulo)
 - [Arduino IOT Sensor Measurements Over LAN](https://github.com/lfenzo/arduino-iot-temperature)
 - [Neovim Fusion Colorscheme](https://github.com/lfenzo/fusion.nvim)
+- [Impostor.jl](https://github.com/lfenzo/Impostor.jl)
 
 ---------
 
