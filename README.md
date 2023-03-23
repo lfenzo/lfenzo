@@ -22,7 +22,7 @@ Although most of my effort is centered around the Machine Learning area, I also 
 
 - [Multi-ensemble Machine Learning based approach for Short-term Solar Radiation Forecasting](https://github.com/lfenzo/ml-solar-sao-paulo)
 - [Deep Dense Neural Networks for Solar Radiation Forecasting](https://github.com/lfenzo/dl-solar-sao-paulo)
-- [Arduino IOT Sensor Measurements Over LAN](https://github.com/lfenzo/arduino-iot-temperature)
+- [Arduino IoT Sensor Measurements Over LAN](https://github.com/lfenzo/arduino-iot-temperature)
 - [Neovim Fusion Colorscheme](https://github.com/lfenzo/fusion.nvim)
 - [Impostor.jl](https://github.com/lfenzo/Impostor.jl)
 
