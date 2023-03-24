@@ -1,8 +1,8 @@
 ## About Me
 
-Computer Science BSc. (graduated from the [Federal University of São Carlos](https://www.ufscar.br/) in 2022) and Data Scientist at [BigData](https://www.linkedin.com/company/big-data-brasil-/), currently working on forecasting pipelines and data analysis.
+Computer Science BSc. (graduated from the [Federal University of São Carlos](https://www.ufscar.br/) in 2022) and Data Scientist at [BigData](https://www.linkedin.com/company/big-data-brasil-/), currently working on forecast pipelines and data analysis.
 
-Although most of my effort is centered around the Machine Learning area, I also enjoy studying and working on topics such as IOT, Process Automatization, 3D Printing and contributing to open source projects.
+Although most of my effort is centered around the Machine Learning area, I also enjoy studying and working on topics such as IoT, Process Automatization, 3D Printing and contributing to open source projects.
 
 *I like to design and automate things.*
 
