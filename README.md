@@ -8,16 +8,6 @@ Although most of my effort is centered around the Machine Learning area, I also 
 
 ---------
 
-### Technologies
-
-- **Programming Languages:** [Python](https://www.python.org/), [Julia](https://julialang.org/), C++
-- **Machine Learning:** [Scikit-Learn](https://scikit-learn.org/stable/index.html), [Keras](https://keras.io/), [Optuna](https://optuna.org/), [Flux.jl](https://fluxml.ai/Flux.jl/stable/)
-- **Data Analysis:** [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Jupyter Notebooks](https://jupyter.org/), [DataFrames.jl](https://dataframes.juliadata.org/stable/), [Makie](https://makie.juliaplots.org/stable/)
-- **Tools:** [NeoVim](http://neovim.io/), [tmux](https://github.com/tmux/tmux), [Obsidian](https://obsidian.md/)
-- **Others:** LaTeX, Fedora Silverblue
-
----------
-
 ### Projects
 
 - [Multi-ensemble Machine Learning based approach for Short-term Solar Radiation Forecasting](https://github.com/lfenzo/ml-solar-sao-paulo)
