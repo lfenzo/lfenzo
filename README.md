@@ -15,6 +15,7 @@ Although most of my effort is centered around the Machine Learning area, I also 
 - [Arduino IoT Sensor Measurements Over LAN](https://github.com/lfenzo/arduino-iot-temperature)
 - [Neovim Fusion Colorscheme](https://github.com/lfenzo/fusion.nvim)
 - [Impostor.jl](https://github.com/lfenzo/Impostor.jl)
+- [Code Katas](https://github.com/lfenzo/code-katas)
 
 ---------
 
