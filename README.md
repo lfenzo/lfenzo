@@ -11,7 +11,6 @@ Although most of my effort is centered around the Artificial Intelligence area, 
 ### Projects
 
 - [Impostor.jl - A highly versatile synthetic data generator](https://github.com/lfenzo/Impostor.jl)
-- [(The very best of) Spurious Correlations](https://github.com/lfenzo/spurious-correlations)
 - [Neovim Fusion Colorscheme](https://github.com/lfenzo/fusion.nvim)
 - [Deep Learning Archive](https://github.com/lfenzo/deep-learning-archive)
 - [Multi-ensemble Machine Learning-based approach for Short-term Solar Radiation Forecasting](https://github.com/lfenzo/ml-solar-sao-paulo)
