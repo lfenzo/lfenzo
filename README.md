@@ -11,7 +11,7 @@ Although most of my effort is centered around the Artificial Intelligence area, 
 ### Projects
 
 - [Multi-ensemble Machine Learning-based approach for Short-term Solar Radiation Forecasting](https://github.com/lfenzo/ml-solar-sao-paulo)
-- [Impostor.jl - A highly versatile synthetic data generator](https://github.com/lfenzo/Impostor.jl)
+- [Impostor.jl - the highly versatile synthetic data generator](https://github.com/lfenzo/Impostor.jl)
 - [Neovim Fusion Colorscheme](https://github.com/lfenzo/fusion.nvim)
 - [Arduino IoT Sensor Measurements Over LAN](https://github.com/lfenzo/arduino-iot-temperature)
 
