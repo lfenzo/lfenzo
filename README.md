@@ -19,4 +19,4 @@ Although most of my effort is centered around the Artificial Intelligence area, 
 
 <img src="./img/sky_and_water.jpg" alt="drawing" width="240"/>
 
-"Sky and Water" *by M. C. Escher (xylography, 1938)*
+*"Sky and Water"* by M. C. Escher (xylography, 1938)
