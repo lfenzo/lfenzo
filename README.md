@@ -10,9 +10,10 @@ Although most of my effort is centered around the Artificial Intelligence area, 
 
 ### Projects
 
+- [YouTube Video Summarizer](https://github.com/lfenzo/video-summarization-poc)
+- [Impostor.jl - the highly versatile synthetic data generator](https://github.com/lfenzo/Impostor.jl)
 - [Multi-ensemble Machine Learning-based approach for Short-term Solar Radiation Forecasting](https://github.com/lfenzo/ml-solar-sao-paulo)
 - [Deep Learning Project Archive](https://github.com/lfenzo/deep-learning-project-archive)
-- [Impostor.jl - the highly versatile synthetic data generator](https://github.com/lfenzo/Impostor.jl)
 - [Neovim Fusion Colorscheme](https://github.com/lfenzo/fusion.nvim)
 - [Arduino IoT Sensor Measurements Over LAN](https://github.com/lfenzo/arduino-iot-temperature)
 
