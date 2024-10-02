@@ -10,7 +10,8 @@ Although most of my effort is centered around Artificial Intelligence, I also en
 
 ### Projects
 
-- [LangChain Summarization Application](https://github.com/lfenzo/langchain-summarization)
+- [LangChain Document Processor](https://github.com/lfenzo/langchain-document-processor)
+- [LangChain Summarization App](https://github.com/lfenzo/langchain-summarization)
 - [YouTube Video Summarizer](https://github.com/lfenzo/poc-video-summarization)
 - [Impostor.jl - the highly versatile synthetic data generator](https://github.com/lfenzo/Impostor.jl)
 - [Multi-ensemble Machine Learning-based approach for Short-term Solar Radiation Forecasting](https://github.com/lfenzo/ml-solar-sao-paulo)
