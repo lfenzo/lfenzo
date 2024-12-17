@@ -2,7 +2,7 @@
 
 Computer Science BSc. (graduated from the [Federal University of São Carlos](https://www.ufscar.br/) in 2022), I've worked as a Data Scientist in various scenarios such as data analysis, data modeling, software development in data and machine learning pipelines, designing and building software tools and workflow automation/orchestration.
 
-Although most of my effort is centered around Artificial Intelligence, I also enjoy studying and working on topics such as process automatization, software development, IoT, renewable energy, stock market, linguistics, astronomy and contributing to open-source projects.
+Although most of my effort focused on Artificial Intelligence, I also enjoy studying and working on topics such as process automatization, software development, IoT, renewable energy, stock market, linguistics, astronomy and contributing to open-source projects.
 
 *I like to design and automate things.*
 
