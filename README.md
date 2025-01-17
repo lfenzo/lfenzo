@@ -10,6 +10,7 @@ Although most of my effort focused on Artificial Intelligence, I also enjoy stud
 
 ### Projects
 
+- [MLOps Project Blueprint](https://github.com/lfenzo/mlops-blueprint)
 - [LangChain Document Processor](https://github.com/lfenzo/langchain-document-processor)
 - [LangChain Summarization App](https://github.com/lfenzo/langchain-summarization)
 - [YouTube Video Summarizer](https://github.com/lfenzo/poc-video-summarization)
