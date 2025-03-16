@@ -19,7 +19,6 @@ Although most of my effort focused on Artificial Intelligence, I also enjoy stud
 - [Deep Learning Project Archive](https://github.com/lfenzo/deep-learning-project-archive)
 - [Neovim Fusion Colorscheme](https://github.com/lfenzo/fusion.nvim)
 - [Arduino IoT Sensor Measurements Over LAN](https://github.com/lfenzo/arduino-iot-temperature)
-- [dotfiles](https://github.com/lfenzo/dotfiles)
 
 ---------
 
